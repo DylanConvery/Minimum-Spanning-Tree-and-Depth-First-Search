@@ -1,0 +1,1 @@
+javac -classpath "./" -d bin src/ie/tudublin/*.java
